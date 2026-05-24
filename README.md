@@ -1,110 +1,212 @@
-<!-- Visitor Counter -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=phani-kotti&label=Profile%20Views&color=0e75b6&style=flat" alt="phani-kotti" />
-</p>
-
-<!-- Animated Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Phani+%F0%9F%91%8B;LWC+Developer+%7C+5+Years+XP;Salesforce+%E2%9A%A1+JavaScript+Wizard;Building+the+Future+on+Force.com" alt="Typing SVG" />
-</div>
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+# ☁️ Phani Murali Kotti
+
+### Salesforce Developer | LWC Specialist | JavaScript Enthusiast
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00A1E0&center=true&vCenter=true&random=false&width=800&lines=Salesforce+Developer;Lightning+Web+Components+Expert;5%2B+Years+of+Experience;Building+Enterprise+Cloud+Solutions"/>
 
 <br/>
 
----
+<img src="https://komarev.com/ghpvc/?username=phanimurali&style=flat-square&color=blue"/>
 
-## 🧑‍💻 About Me
-
-I'm **Phani Murali Kotti**, a seasoned **Lightning Web Component (LWC) Developer** with **5 years** of hands-on experience building scalable, high-performance Salesforce solutions. I love turning complex business problems into elegant, user-friendly interfaces on the Salesforce platform.
-
-- ⚡ **5 years** of Salesforce & LWC development experience
-- 🎯 Obsessed with clean code, component architecture, and pixel-perfect UIs
-- 🚀 Always exploring the latest Salesforce releases and JavaScript innovations
-- 📚 Lifelong learner — currently diving deeper into Salesforce DevOps & LWR
-- 🎬 Sharing knowledge on **YouTube**, **Medium**, and **Instagram**
-- 🌏 Based in India | Open to remote opportunities worldwide
-
----
-
-## 🛠️ Tech Stack
-
-### ☁️ Salesforce Platform
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![LWC](https://img.shields.io/badge/Lightning%20Web%20Components-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![Apex](https://img.shields.io/badge/Apex-1798C1?style=for-the-badge&logo=salesforce&logoColor=white)
-![SOQL](https://img.shields.io/badge/SOQL-0070D2?style=for-the-badge&logo=salesforce&logoColor=white)
-![Flow](https://img.shields.io/badge/Salesforce%20Flow-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-
-### 🌐 Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🔧 Tools & DevOps
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![SFDX](https://img.shields.io/badge/Salesforce%20CLI-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/phani-kotti-b80310134/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.youtube.com/@phanikotti" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="https://medium.com/@phanikotti" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-  </a>
-  <a href="https://www.instagram.com/phanikotti" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=phani-kotti&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phani-kotti&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=phani-kotti&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+# 💫 About Me
+
+<img align="right" width="320" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif"/>
+
+```yaml
+Name: Phani Murali Kotti
+Current Role: Salesforce LWC Developer
+Experience: 5+ Years
+Location: India
+
+Career Path:
+  - Support Engineer (2 Years)
+  - Salesforce Administrator (1 Year)
+  - LWC Developer (2021 - Present)
+
+Specialization:
+  - Lightning Web Components
+  - Salesforce Administration
+  - Apex Development
+  - JavaScript Development
+  - Enterprise Integrations
+  - Production Deployments
+```
+
+💻 Salesforce professional experienced in designing and developing scalable enterprise applications.
+
+⚡ Strong expertise in Lightning Web Components, reusable architecture, deployments, integrations, and Salesforce ecosystem development.
+
+🚀 Passionate about building modern UI experiences and optimizing enterprise workflows.
+
+---
+
+# ☁️ Salesforce Journey
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=phani-kotti&theme=darkhub&no-frame=true&margin-w=10&margin-h=10&row=1" alt="GitHub Trophies" />
+
+| Role | Experience | Responsibilities |
+|---|---|---|
+| 🛠️ Support Engineer | 2 Years | Production Support, Debugging, Issue Resolution |
+| ⚙️ Salesforce Admin | 1 Year | Users, Flows, Security, Reports, Dashboards |
+| ☁️ LWC Developer | 2021 - Present | LWC, Apex, APIs, Deployments, Enterprise Apps |
+
 </div>
 
 ---
 
-## 📈 Activity Graph
+# 🚀 Tech Universe
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=phani-kotti&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+
+## ☁️ Salesforce Ecosystem
+
+<img src="https://skillicons.dev/icons?i=js,html,css,github,git,vscode"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
+<img src="https://img.shields.io/badge/LWC-Lightning_Web_Components-0176D3?style=for-the-badge&logo=salesforce&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apex-1798C1?style=for-the-badge&logo=salesforce&logoColor=white"/>
+<img src="https://img.shields.io/badge/SOQL-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
+<img src="https://img.shields.io/badge/Experience_Cloud-0176D3?style=for-the-badge&logo=salesforce&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins-CI/CD-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/SFDX-Salesforce_CLI-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
+
 </div>
 
 ---
 
-## 🤝 Let's Connect!
+# 🌩️ Enterprise Experience
 
-> 💼 **Open to collaborations** on Salesforce projects, LWC components, and JavaScript applications.
-> 
-> 📬 Reach me on [LinkedIn](https://www.linkedin.com/in/phani-kotti-b80310134/) — I respond fast!
+## ☁️ Salesforce LWC Development
+
+```diff
++ Built reusable Lightning Web Components
++ Developed scalable enterprise UI architecture
++ Worked on Apex Controllers & Integrations
++ Optimized performance and user experience
++ Worked on REST API integrations
++ Developed dynamic and responsive UI components
+```
+
+---
+
+## 🚀 Deployments & Release Activities
+
+```yaml
+Deployment Tools:
+  - SFDX CLI
+  - Change Sets
+  - GitHub
+  - Jenkins
+
+Activities:
+  - Production Deployments
+  - Hotfix Releases
+  - Sandbox Management
+  - CI/CD Pipelines
+  - Code Reviews
+```
+
+---
+
+# 🌟 Featured Salesforce Projects
 
 <div align="center">
-  <i>"Code is like humor. When you have to explain it, it's bad." — Cory House</i>
-  <br/><br/>
-  <b>⭐ If you find my work helpful, consider starring my repos!</b>
+
+| Project | Description |
+|---|---|
+| ☁️ Healthcare CRM | Built scalable Health Cloud components and workflows |
+| ⚡ Lead Automation Platform | Automated sales workflows using LWC & Flows |
+| 🌩️ Customer Experience Portal | Developed responsive Experience Cloud portal |
+| 🚀 Enterprise Integration Hub | Connected Salesforce with external systems via REST APIs |
+
 </div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=phanimurali&show_icons=true&theme=github_dark&hide_border=true&title_color=00A1E0&icon_color=00A1E0"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phanimurali&layout=compact&theme=github_dark&hide_border=true&title_color=00A1E0"/>
+
+</div>
+
+---
+
+# 🔥 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=phanimurali&theme=github-dark-blue&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=phanimurali&theme=algolia&no-frame=true&row=2&column=4"/>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/phani-kotti-b80310134/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/phanimurali">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://youtube.com/">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="https://medium.com/">
+<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 💡 Salesforce Core Skills
+
+```javascript
+const expertise = {
+    frontend: ["LWC", "JavaScript", "HTML", "CSS"],
+    backend: ["Apex", "SOQL", "REST APIs"],
+    admin: ["Flows", "Profiles", "Permission Sets"],
+    deployment: ["SFDX", "GitHub", "Jenkins"],
+    methodology: ["Agile", "Scrum", "Production Support"]
+};
+```
+
+---
+
+<div align="center">
+
+## ☁️ “Transforming Business Ideas into Salesforce Cloud Solutions” ☁️
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0176D3,100:00A1E0&height=140&section=footer"/>
