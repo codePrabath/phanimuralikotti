@@ -1,23 +1,40 @@
 <div align="center">
 
-<!-- Snake animation header -->
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake animation"/>
+# ⚡ Phani Murali Kotti
 
-# ☁️ Phani Murali Kotti
+<div align="center">
 
-**Salesforce Developer · LWC Specialist · Apex & Integration Engineer**
 
-<!-- Salesforce primary badges -->
-<p>
-  <img src="https://img.shields.io/badge/Salesforce%20Platform-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce Platform"/>
-  <img src="https://img.shields.io/badge/Lightning%20Web%20Components-0176D3?style=for-the-badge&logo=salesforce&logoColor=white" alt="Lightning Web Components"/>
-  <img src="https://img.shields.io/badge/Apex-1798C1?style=for-the-badge&logo=salesforce&logoColor=white" alt="Apex"/>
-  <img src="https://img.shields.io/badge/SOQL-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="SOQL"/>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=phanimurali&style=flat-square&color=00A1E0" alt="Profile views"/>
 
 </div>
+
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=950&lines=Salesforce+Developer;Lightning+Web+Components+Specialist;Apex+%26+REST+Integration+Engineer;Production++Support+|+Salesforce+Admin" alt="Typing SVG" />
+
+<br/>
+
+<p>
+  <img src="https://img.shields.io/badge/Salesforce%20Developer-0F172A?style=for-the-badge&logo=salesforce&logoColor=38BDF8" alt="Salesforce Developer"/>
+  <img src="https://img.shields.io/badge/LWC-0F172A?style=for-the-badge&logo=salesforce&logoColor=60A5FA" alt="LWC"/>
+  <img src="https://img.shields.io/badge/Apex-0F172A?style=for-the-badge&logo=salesforce&logoColor=22D3EE" alt="Apex"/>
+  <img src="https://img.shields.io/badge/SOQL-0F172A?style=for-the-badge&logo=salesforce&logoColor=38BDF8" alt="SOQL"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-0F172A?style=for-the-badge&logo=fastapi&logoColor=60A5FA" alt="REST APIs"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-0F172A?style=for-the-badge&logo=githubactions&logoColor=22D3EE" alt="CI/CD"/>
+</p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=phanimurali&style=for-the-badge&color=38BDF8" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/phanimurali?style=for-the-badge&color=0F172A&labelColor=38BDF8" alt="GitHub followers"/>
+</p>
+
+</div>
+
+---
+
+## 🐍 Contributions
+<picture>
+ <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake animation"/>
+</picture>
 
 ---
 
@@ -26,189 +43,194 @@
 ```yaml
 Name: Phani Murali Kotti
 Location: India
-Current Role: Salesforce LWC Developer
-Total Experience: 5+ Years (2021 - Present)
-
-Career Split:
-  - 1 Year: Support Engineer (Production Support)
-  - 1 Year: Salesforce Administrator
-  - 3 Years: Salesforce Developer (LWC, Apex, Integrations)
+Role: Salesforce Developer
+Experience: 5+ Years
+Primary Focus: LWC, Apex, SOQL, REST Integrations, Production Support
 ```
 
-- Salesforce developer with 5+ years across support, admin, and custom development on the Salesforce platform.  
-- Strong in Lightning Web Components, Apex, SOQL, security, and REST API integrations.  
-- Comfortable owning features end‑to‑end: requirements → design → build → deploy → production support.  
+- Salesforce developer with 5+ years of experience across production support, administration, and enterprise application development.
+- Specialized in Lightning Web Components, Apex, SOQL, platform security, automation, and REST API integrations.
+- Experienced in full-cycle delivery: requirements, development, testing, deployment, release support, and production issue resolution.
+- Focused on scalable architecture, maintainable code, and stable enterprise releases.
 
 ---
 
-## 🎯 Focus Areas
+## 🚀 Current Focus
 
-- Reusable, scalable Lightning Web Components for enterprise UIs.  
-- Apex‑backed, data‑driven components with clean, maintainable code.  
-- Secure integrations between Salesforce and external systems using REST APIs.  
-- Deployments, hotfixes, CI/CD pipelines, and sandbox strategy.  
-- Fast debugging and incident resolution in production orgs.  
+- Building reusable Lightning Web Components for enterprise Salesforce applications.
+- Designing Apex services and secure Salesforce integrations.
+- Improving delivery quality through SFDX, GitHub, Jenkins, and CI/CD discipline.
+- Growing toward broader cloud and platform engineering responsibilities.
 
 ---
 
-## ☁️ Salesforce Stack (Icons)
+## 🎯 What I Work On
+
+- Reusable and scalable LWC-based UI development.
+- Apex services for complex enterprise workflows.
+- REST API integrations between Salesforce and external systems.
+- Platform security using roles, profiles, permission sets, and sharing.
+- Production support, hotfixes, release validation, and issue resolution.
+- DevOps workflows using SFDX, GitHub, and Jenkins.
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<!-- Clouds / Products -->
+### Salesforce & Platform
+
 <p>
-  <img src="https://img.shields.io/badge/Salesforce%20Platform-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce Platform"/>
-  <img src="https://img.shields.io/badge/Sales%20Cloud-1798C1?style=for-the-badge&logo=salesforce&logoColor=white" alt="Sales Cloud"/>
-  <img src="https://img.shields.io/badge/Service%20Cloud-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Service Cloud"/>
-  <img src="https://img.shields.io/badge/Experience%20Cloud-0176D3?style=for-the-badge&logo=salesforce&logoColor=white" alt="Experience Cloud"/>
+  <img src="https://img.shields.io/badge/Sales%20Cloud-0F172A?style=for-the-badge&logo=salesforce&logoColor=38BDF8" alt="Sales Cloud"/>
+  <img src="https://img.shields.io/badge/Service%20Cloud-0F172A?style=for-the-badge&logo=salesforce&logoColor=60A5FA" alt="Service Cloud"/>
+  <img src="https://img.shields.io/badge/Experience%20Cloud-0F172A?style=for-the-badge&logo=salesforce&logoColor=22D3EE" alt="Experience Cloud"/>
+  <img src="https://img.shields.io/badge/Flows-0F172A?style=for-the-badge&logo=salesforce&logoColor=38BDF8" alt="Flows"/>
+  <img src="https://img.shields.io/badge/Security-0F172A?style=for-the-badge&logo=salesforce&logoColor=60A5FA" alt="Security"/>
 </p>
 
-<!-- Core dev & admin -->
+### Dev Tools
+
 <p>
-  <img src="https://img.shields.io/badge/LWC-0176D3?style=for-the-badge&logo=salesforce&logoColor=white" alt="Lightning Web Components"/>
-  <img src="https://img.shields.io/badge/Apex%20Classes-1798C1?style=for-the-badge&logo=salesforce&logoColor=white" alt="Apex Classes"/>
-  <img src="https://img.shields.io/badge/SOQL%20Queries-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="SOQL Queries"/>
-  <img src="https://img.shields.io/badge/Flows%20%26%20Automation-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Flows & Automation"/>
+  <img src="https://img.shields.io/badge/SFDX-0F172A?style=for-the-badge&logo=salesforce&logoColor=22D3EE" alt="SFDX"/>
+  <img src="https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=F97316" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Jenkins-0F172A?style=for-the-badge&logo=jenkins&logoColor=F87171" alt="Jenkins"/>
 </p>
 
-<!-- Platform operations -->
-<p>
-  <img src="https://img.shields.io/badge/Security%20%26%20Sharing-1798C1?style=for-the-badge&logo=salesforce&logoColor=white" alt="Security & Sharing"/>
-  <img src="https://img.shields.io/badge/SFDX%20CLI-0176D3?style=for-the-badge&logo=salesforce&logoColor=white" alt="SFDX CLI"/>
-  <img src="https://img.shields.io/badge/REST%20API%20Integrations-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="REST API Integrations"/>
-  <img src="https://img.shields.io/badge/Release%20Management-1798C1?style=for-the-badge&logo=salesforce&logoColor=white" alt="Release Management"/>
-</p>
+<img src="https://skillicons.dev/icons?i=js,html,css,git,github,vscode,aws&theme=dark&perline=7" alt="Skill Icons"/>
 
 </div>
 
 ---
 
-## 🛤️ Career Journey (1–1–3 Years)
+## 🛤️ Career Journey
 
 <div align="center">
 
 | Role | Duration | Focus |
 | :--- | :---: | :--- |
-| Support Engineer | 1 Year | Production support, debugging, incident resolution |
-| Salesforce Administrator | 1 Year | Users, security, reports, dashboards, flows & automation |
-| Salesforce Developer (LWC) | 3 Years | LWC, Apex, SOQL, APIs, deployments, enterprise apps |
+| Support Engineer | 1 Year | Production support, incident handling, issue triage |
+| Salesforce Administrator | 1 Year | Users, access, dashboards, automation, reports |
+| Salesforce Developer | 3+ Years | LWC, Apex, SOQL, integrations, deployments |
 
 </div>
 
 ---
 
-## 🧩 Skills Overview
+## 🧩 Skills Breakdown
 
-### Salesforce Platform
+<details>
+  <summary><b>Salesforce Development</b></summary>
+  <br/>
 
-- Lightning Web Components (LWC)  
-- Apex, SOQL  
-- Security & Sharing, Profiles, Permission Sets  
-- Flows, Validation Rules, Automation  
-- Experience Cloud  
+- Lightning Web Components (LWC)
+- Apex Classes and Triggers
+- SOQL and Data Access Patterns
+- Validation Rules and Flows
+- Experience Cloud
+- Reports and Dashboards
+- Security and Sharing Model
 
-### Integrations & DevOps
+</details>
 
-- REST API integrations (Salesforce ↔ external systems)  
-- SFDX CLI  
-- Git & GitHub  
-- Jenkins CI/CD, branching & release coordination  
+<details>
+  <summary><b>Integrations & Release Operations</b></summary>
+  <br/>
 
-### Web & Tooling
+- REST API integrations
+- Secure integration design
+- SFDX deployments
+- GitHub collaboration workflows
+- Jenkins CI/CD pipelines
+- Hotfix and production release support
+- Sandbox and environment coordination
 
-<div align="center">
+</details>
 
-<img src="https://skillicons.dev/icons?i=js,html,css,git,github,vscode&theme=dark&perline=6" alt="Web and developer tools"/>
+<details>
+  <summary><b>Ways of Working</b></summary>
+  <br/>
 
-</div>
+- Agile and Scrum delivery
+- Production support ownership
+- Root cause analysis
+- Incident and defect triage
+- Code review and validation
+- Cross-team collaboration
 
----
-
-## 🛠️ Technical Snapshot
-
-```javascript
-const expertise = {
-  frontend: ["LWC", "JavaScript", "HTML", "CSS"],
-  backend: ["Apex", "SOQL", "REST APIs"],
-  salesforce: ["Administration", "Security Model", "Flows", "Experience Cloud"],
-  devops: ["SFDX", "GitHub", "Jenkins", "CI/CD"],
-  waysOfWorking: ["Agile", "Scrum", "Production Support", "Release Coordination"]
-};
-```
+</details>
 
 ---
 
 ## 🌩️ Enterprise Experience
 
-### Salesforce Development
+### Salesforce Engineering
+- Built reusable LWC components for enterprise business modules.
+- Developed Apex-based backend logic for complex business processes.
+- Integrated Salesforce with external platforms using REST APIs.
+- Improved solution maintainability with reusable architecture and cleaner patterns.
 
-- Built reusable LWC component libraries to standardize UI across modules.  
-- Implemented Apex controllers for complex, data‑heavy business logic.  
-- Integrated Salesforce with external systems using REST APIs and secure patterns.  
-- Optimized performance and responsiveness across desktop and mobile.  
-
-### Deployments & Release Operations
-
-**Tools**
-
-- SFDX CLI  
-- Change Sets  
-- GitHub  
-- Jenkins  
-
-**Work**
-
-- Production deployments and controlled release cycles.  
-- Hotfix releases for critical issues in production orgs.  
-- Sandbox management and refresh strategy.  
-- CI/CD pipeline setup and monitoring.  
-- Code reviews and quality checks before release.  
+### Release & Production Operations
+- Supported production deployments and controlled release cycles.
+- Delivered hotfixes for critical production issues.
+- Worked with GitHub, SFDX, Jenkins, and sandbox strategy for stable releases.
+- Contributed to release readiness and post-deployment validation.
 
 ---
 
-## 🌟 Featured Salesforce Projects
+## 🌟 Featured Work
 
 <div align="center">
 
-| Project | What It Involved |
+| Project | Highlights |
 |---|---|
-| Healthcare CRM Solutions | Scalable healthcare-style Salesforce components and workflows for patient and provider journeys |
-| Lead Automation Platform | Automated lead lifecycle using LWC, Flows, validation rules, and Salesforce automation |
-| Customer Experience Portal | Responsive Experience Cloud portal for customers and partners |
-| Integration-Driven Enterprise Apps | REST‑based integrations between Salesforce and external systems with secure patterns |
+| Healthcare CRM Solutions | Scalable components and workflows for healthcare-oriented CRM processes |
+| Lead Automation Platform | Automated lead lifecycle using LWC, Flows, validation rules, and Apex |
+| Customer Experience Portal | Responsive Experience Cloud solutions for customer and partner journeys |
+| Integration-Driven Apps | Secure REST-based Salesforce integrations with external systems |
 
 </div>
 
 ---
 
-## 📌 Recruiter Snapshot
+## 📌 Why Teams Hire Me
 
-- 5+ years on Salesforce across support, admin, and development roles.  
-- Deep experience in LWC, Apex, SOQL, security, and integrations.  
-- Strong fit for Salesforce developer / platform engineer roles with enterprise complexity.  
-- Used to production environments: debugging, hotfixes, and stable releases.  
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=phanimurali&show_icons=true&theme=github_dark&hide_border=true&title_color=00A1E0&icon_color=00A1E0" alt="GitHub stats"/>
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phanimurali&layout=compact&theme=github_dark&hide_border=true&title_color=00A1E0" alt="Top languages"/>
-
-</div>
+- 5+ years of Salesforce experience across support, administration, and development.
+- Strong expertise in LWC, Apex, SOQL, integrations, and platform security.
+- Comfortable delivering from design to deployment and post-release support.
+- Experienced in enterprise environments that require reliability, debugging, and release discipline.
 
 ---
 
-## 🔥 Contribution Activity
 
-<div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=phanimurali&theme=github-dark-blue&hide_border=true" alt="GitHub streak stats"/>
+---
 
-</div>
+## ⚡ Technical Snapshot
+
+```javascript
+const engineer = {
+  name: "Phani Murali Kotti",
+  role: "Salesforce Developer",
+  experience: "5+ Years",
+  specialties: [
+    "LWC",
+    "Apex",
+    "SOQL",
+    "REST API Integrations",
+    "Security & Sharing",
+    "CI/CD",
+    "Production Support"
+  ],
+  currentFocus: [
+    "Reusable Salesforce UI Architecture",
+    "Enterprise Platform Engineering",
+    "Stable Release Operations",
+    "AWS and Cloud Learning"
+  ]
+};
+```
 
 ---
 
@@ -216,20 +238,33 @@ const expertise = {
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/phani-kotti-b80310134/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<a href="https://www.linkedin.com/in/phani-kotti-b80310134/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn"/>
 </a>
 
-<a href="https://github.com/phanimurali" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<a href="https://github.com/phanimurali" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub"/>
 </a>
 
-<a href="https://youtube.com/" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+<a href="mailto:your-email@example.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=22D3EE" alt="Email"/>
 </a>
 
-<a href="https://medium.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-</a>
+</div>
+
+---
+
+<div align="center">
+
+### ✨ Thanks for visiting my profile
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1400&color=60A5FA&center=true&vCenter=true&width=700&lines=Always+learning+new+platform+capabilities;Building+clean+and+reliable+Salesforce+solutions;Focused+on+engineering+quality+and+delivery" alt="Footer typing animation" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Build-0F172A?style=for-the-badge&logoColor=38BDF8&color=0F172A" alt="Build"/>
+<img src="https://img.shields.io/badge/Integrate-0F172A?style=for-the-badge&logoColor=60A5FA&color=0F172A" alt="Integrate"/>
+<img src="https://img.shields.io/badge/Deploy-0F172A?style=for-the-badge&logoColor=22D3EE&color=0F172A" alt="Deploy"/>
+<img src="https://img.shields.io/badge/Support-0F172A?style=for-the-badge&logoColor=38BDF8&color=0F172A" alt="Support"/>
 
 </div>
